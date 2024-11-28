@@ -23,6 +23,6 @@ public class Aluno extends Pessoa implements Info {
 		System.out.println("O nome: " + getNome());
 	};
 	
-	//Oi
+
 
 }
